@@ -1,2 +1,2 @@
 # SalesDashboardProject
-A Sales Dashboard Project using Tableau
+A Sales Dashboard Project using Excel
